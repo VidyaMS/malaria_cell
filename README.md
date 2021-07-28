@@ -15,7 +15,7 @@ Model building is done in the following sequence:
 Conclusion:  
 It is seen that when blood cell images are read in as a  224x224X3 RGB image , the fully connected neural network models perform very poorly in the classification task.The CNN Models perform fairly well in the feature map generation and hence are able to give a recall of 0.93 for the parasitised class and overall accuracy of 0.95.  
   
-Future scope:
+Future scope:  
 1.Can we improve the model metrics by using pretrained models and transfer learning?  
 2.Can we get new blood cell images for identification of malarial infection and test the model performance ?  
 3.Can you perform a study on how beneficial is this modelling as a tool to aid in malaria diagnosis ?    
